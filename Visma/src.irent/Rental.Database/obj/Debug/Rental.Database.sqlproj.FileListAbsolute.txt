@@ -1,0 +1,9 @@
+D:\GIT\Visma\src.irent\Rental.Database\bin\Debug\Rental.Database.dacpac
+D:\GIT\Visma\src.irent\Rental.Database\bin\Debug\Rental.Database.dll
+D:\GIT\Visma\src.irent\Rental.Database\bin\Debug\Rental.Database.pdb
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\Model.xml
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\refactor.xml
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\postdeploy.sql
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\predeploy.sql
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\Rental.Database.dll
+D:\GIT\Visma\src.irent\Rental.Database\obj\Debug\Rental.Database.pdb

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="ad60f19d-8a34-435e-b92d-cb815c333283" ChangeDateTime="05/24/2021 16:46:05" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_CUSTOMER].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_CUSTOMER]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CUSTOMER_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="752c0841-56b5-4392-a9fd-7cb3cb232c57" ChangeDateTime="05/24/2021 16:52:07" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_CUSTOMER].[CUSTOMER_NAME]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_CUSTOMER]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NAME" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a511446f-5b21-4f89-bd31-0dfe119e841f" ChangeDateTime="05/24/2021 16:52:15" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_CUSTOMER].[CUSTOMER_PHONE]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_CUSTOMER]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PHONE_NUMBER" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a3aea165-1589-49f8-97e6-c1dba9b20368" ChangeDateTime="05/24/2021 16:54:45" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_CUSTOMER_PHONE].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_CUSTOMER_PHONE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="LINK_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="08dd0552-3fa6-4e7d-905e-1615a948644c" ChangeDateTime="05/24/2021 17:06:38" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_RENTAL_TYPES].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_RENTAL_TYPES]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TYPE_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a6f044c4-4f80-41b3-805c-1dd6e6af48b8" ChangeDateTime="05/24/2021 17:15:44" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[REGISTRATION_QUEUE].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[REGISTRATION_QUEUE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ITEM_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="92a96507-0ad5-43ab-a8be-a0b4acfc69cd" ChangeDateTime="05/24/2021 17:40:43" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_RENTAL_ITEM].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_RENTAL_ITEM]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ITEM_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b34402bf-751d-45aa-a033-092e20d300da" ChangeDateTime="05/24/2021 17:48:49" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[FK_T_RENTAL_ITEM_ToRantalType]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[T_RENTAL_ITEM]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_T_RENTAL_ITEM_ToRentalType]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2c494ca7-a3ca-4e90-97e6-130586d3992f" ChangeDateTime="05/24/2021 17:50:33" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_ITEM_RATE].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_ITEM_RATE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="RATE_ID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="458be3c2-a5c6-4efb-9208-81dc8c95c208" ChangeDateTime="05/24/2021 17:52:35" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_ITEM_RATE].[AMMOUNT_PER_SECOND]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_ITEM_RATE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BY_SECOND" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e5dc6006-9770-49bd-accc-0cedceff6728" ChangeDateTime="06/01/2021 20:03:57" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[T_CUSTOMER_PHONE].[PHONE_SUFFIX]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[T_CUSTOMER_PHONE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PHONE_NUMBER" />
+  </Operation>
+</Operations>

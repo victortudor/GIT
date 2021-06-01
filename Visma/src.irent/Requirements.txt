@@ -1,0 +1,26 @@
+Assume you are working for the company "Vacation Hire Inc". You are the software architect
+and in progress of creating their new car hire application. The program is used by the clerks to
+register orders for hire of a vehicle. We need to register what kind of vehicle is wanted, when it
+is reserved, name and phone number of customer. When the vehicle is returned we need to
+register if there is any damage to the vehicle and if the gasoline is filled up or not. This is
+important to make the correct bill. The kind of vehicles we are renting out today is trucks,
+minivans and sedans. The program must however be extendable to support other types.
+Make a simple program for registering orders and return of vehicles. It should be able to enter
+an order, list orders and update an order after return.
+“Vacation Hire Inc” allows payment with foreign currency. The latest exchange rates are to be
+read from an external api; e.g. https://currencylayer.com/
+We already know that "Vacation Hire Inc" is planning to move into other business areas than just
+cars. In the future we expect to also rent out holiday cottages, hotel rooms and equipment like
+bikes and boats. You do not need to implement any of these features but the system should be
+easy to extend to other kinds of rentals. You should explain in the documentation or in the code
+how such extensions can be made. Show the extension points with interfaces, inheritance or
+other well known software patterns.
+Feel free to choose this being a complete web application or only an API backend that
+implements the needed endpoints. We expect that you demonstrate reasonable use of the
+available language functionality for abstraction, interfaces, inheritance, and a good class
+structure and show a good programming practice. We are focused on code quality and good
+design, so it is nice if you add a design sketch. You will not be judged for correctness in the
+calculations or a fancy UI.
+Share the code with us by uploading it to a public github account and send us the repository
+link.
+

@@ -1,0 +1,12 @@
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\bin\Debug\net5.0\Rental.Business.Contracts.deps.json
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\bin\Debug\net5.0\Rental.Business.Contracts.dll
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\bin\Debug\net5.0\ref\Rental.Business.Contracts.dll
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\bin\Debug\net5.0\Rental.Business.Contracts.pdb
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.csprojAssemblyReference.cache
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.AssemblyInfoInputs.cache
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.AssemblyInfo.cs
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.csproj.CoreCompileInputs.cache
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.dll
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\ref\Rental.Business.Contracts.dll
+D:\GIT\Visma\src.irent\Rental.Business.Contracts\obj\Debug\net5.0\Rental.Business.Contracts.pdb

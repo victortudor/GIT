@@ -1,0 +1,15 @@
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\Rental.Business.Contracts.dll
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.csprojAssemblyReference.cache
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.AssemblyInfoInputs.cache
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.AssemblyInfo.cs
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\Rental.Business.Modules.Exchange.deps.json
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\Rental.Business.Modules.Exchange.dll
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\ref\Rental.Business.Modules.Exchange.dll
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\Rental.Business.Modules.Exchange.pdb
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\bin\Debug\net5.0\Rental.Business.Contracts.pdb
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.csproj.CoreCompileInputs.cache
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.csproj.CopyComplete
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.dll
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\ref\Rental.Business.Modules.Exchange.dll
+D:\GIT\Visma\src.irent\Rental.Business.Modules.Exchange\obj\Debug\net5.0\Rental.Business.Modules.Exchange.pdb
